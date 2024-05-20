@@ -1,3 +1,4 @@
 # Lab 7 - Starter
-Sarah Paull
+## Sarah Paull
+
 https://sarahpaulll.github.io/lab7-starter/
